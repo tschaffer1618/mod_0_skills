@@ -1,0 +1,14 @@
+Class: Teacher
+
+Attributes:
+1. degrees (array)
+2. certified (boolean)
+3. last_name (string)
+4. salary (int)
+5. year_hired (int)
+
+Methods:
+1. get_degree (add to array degrees)
+2. become_certified (change boolean certified to true)
+3. experience (calculate current year - year_hired)
+4. pay_raise (increase salary)
