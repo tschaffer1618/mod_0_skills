@@ -1,0 +1,15 @@
+Class: Classroom
+
+Attributes:
+1. wall_color (string)
+2. carpet_color (string)
+3. number_of_desks (int)
+4. class_in_session (boolean)
+5. schedule (hash)
+
+Methods:
+1. paint_wall (change wall_color)
+2. recarpet (change carpet_color)
+3. add_desk (increase number_of_desks)
+4. remove_desk (decrease number_of_desks)
+5. change_schedule (change the schedule hash) 
