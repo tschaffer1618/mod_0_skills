@@ -1,0 +1,15 @@
+Class: Teacher
+Object: Mrs. Herring
+
+Attributes:
+1. degrees: [BS Science Education, MS Chemistry]
+2. certified: false
+3. last_name: Herring
+4. salary: 62500
+5. year_hired: 2010
+
+Methods:
+1. get_degree: [BS Science Education, MS Chemistry, MS Educational Philosophy]
+2. become_certified: true
+3. experience: 2019 - 2010 = 9
+4. pay_raise: 62500 + 1500 = 64000
