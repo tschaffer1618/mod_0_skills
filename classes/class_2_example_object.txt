@@ -1,0 +1,16 @@
+Class: Classroom
+Object: Room 204
+
+Attributes:
+1. wall_color: "Beige"
+2. carpet_color: "Blue"
+3. number_of_desks: 22
+4. class_in_session: true
+5. schedule: ["Chemistry": 0830, "Algebra 1": 1200]
+
+Methods:
+1. paint_wall: "Light Green"
+2. recarpet: "Tan"
+3. add_desk: 22 + 5 = 27
+4. remove_desk: 22 - 6 = 16
+5. change_schedule: ["Chemistry": 0830, "Algebra 2": 1015, "Algebra 1": 1230]
